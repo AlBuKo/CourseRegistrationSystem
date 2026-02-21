@@ -1,0 +1,15 @@
+# Maven hedef dizini
+target/
+
+# IDEA/IntelliJ ve Eclipse dosyaları
+*.iml
+*.ipr
+*.iws
+.idea/
+.project
+.classpath
+.settings/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
